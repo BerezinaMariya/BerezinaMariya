@@ -1,7 +1,8 @@
 ### Hi there, my name is Berezina Mariya! 👋
 
-- 🔭 I graduated from the course of web-developer👩‍🎓and I’m currently looking for a job.
+- 🔭 I've completed a course on a web development at Practicum 🎓 and I'm currently helping other students 👩‍🎓 with projects as a senior student. 
 - 🌱 I’m currently learning TypeScript.
+- 💻 I’m currently looking for a job.
 
 ## Techs
 ![image](https://user-images.githubusercontent.com/103631822/226563135-2c3b4621-7c97-4eaa-88f5-eda3c9b9f545.png)
