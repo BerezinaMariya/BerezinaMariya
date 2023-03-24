@@ -18,4 +18,12 @@
 ![image](https://user-images.githubusercontent.com/103631822/226563729-590a9d20-8d8e-4da8-a254-9900f37d1224.png)
 ![image](https://user-images.githubusercontent.com/103631822/226563861-04bae83f-695c-4f33-b971-f9f6dc49e3e8.png)
 
-### Please, visit my portfolio site: https://movies-explorer.berez.nomoredomains.club
+## Activity
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BerezinaMariya&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BerezinaMariya&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BerezinaMariya&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BerezinaMariya&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BerezinaMariya&theme=solarized)  
+
+## Portfolio
+https://movies-explorer.berez.nomoredomains.club
