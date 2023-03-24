@@ -1,4 +1,4 @@
-### Hi there, my name is Berezina Mariya! 👋
+### Hi there, my name is Mariya Berezina! 👋
 
 - 🎓 I've completed a course on a web development at Practicum.
 - 👩‍🎓 I'm currently helping other students with their projects as a senior student. 
